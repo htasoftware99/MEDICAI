@@ -34,6 +34,12 @@ Run Ollama container:
 docker run -d -v ollama:/root/.ollama -p 10500:11434 --name ollama ollama/ollama
 ```
 
+Nvidia GPU:
+
+```bash
+docker run -d --gpus=all -v ollama:/root/.ollama -p 10500:11434 --name ollama ollama/ollama
+```
+
 **Verify Ollama container is running:**
 ```bash
 docker ps
