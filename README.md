@@ -129,5 +129,5 @@ Before running the application, ensure:
 ## System Requirements
 
 - **RAM:** Minimum 8GB (16GB recommended for optimal performance)
-- **Storage:** At least 5GB free space for models and dependencies
+- **Storage:** At least 10GB free space for models and dependencies
 - **Internet:** Required for initial setup and model downloads
