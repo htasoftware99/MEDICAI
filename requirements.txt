@@ -1,0 +1,45 @@
+# Web Framework
+streamlit
+
+# Deep Learning & Computer Vision
+torch
+torchvision
+ultralytics
+opencv-python
+
+# Image Processing
+Pillow
+numpy
+matplotlib
+
+# Machine Learning & NLP
+scikit-learn
+pandas
+
+# LangChain and Related
+langchain
+chromadb
+sentence-transformers
+
+# Vector Database & Embeddings
+huggingface-hub
+transformers
+
+# PDF Processing
+pypdf2
+PyPDF2
+
+# Environment & Configuration
+python-dotenv
+
+# HTTP Requests
+requests
+
+# Utilities
+pickle-mixin
+typing-extensions
+tempfile-utils
+
+# Optional: For better performance
+accelerate
+bitsandbytes

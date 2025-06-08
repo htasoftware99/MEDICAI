@@ -1,0 +1,10 @@
+utaa
+patient/.env
+models/yolov8n.pt
+patient/brain_tumor_detection/__pycache__
+patient/diabetes_disease_prediction/__pycache__
+patient/diabetes_disease_prediction/chroma_db
+patient/heart_disease_prediction/__pycache__
+patient/heart_disease_prediction/chroma_db
+patient/medical_chatbot/__pycache__
+patient/pneumonia_detection/__pycache__
