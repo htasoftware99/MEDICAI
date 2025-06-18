@@ -38,7 +38,7 @@ requests
 # Utilities
 pickle-mixin
 typing-extensions
-tempfile-utils
+#tempfile-utils
 
 # Optional: For better performance
 accelerate
