@@ -10,3 +10,4 @@ patient/medical_chatbot/__pycache__
 patient/pneumonia_detection/__pycache__
 notebooks/heart_disease_data.csv
 medicai/
+notebooks/diabetes.csv
