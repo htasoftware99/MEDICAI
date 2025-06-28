@@ -18,6 +18,7 @@ pandas
 
 # LangChain and Related
 langchain
+langchain-community
 chromadb
 sentence-transformers
 
@@ -26,8 +27,7 @@ huggingface-hub
 transformers
 
 # PDF Processing
-pypdf2
-PyPDF2
+pypdf
 
 # Environment & Configuration
 python-dotenv
