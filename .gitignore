@@ -8,3 +8,6 @@ patient/heart_disease_prediction/__pycache__
 patient/heart_disease_prediction/chroma_db
 patient/medical_chatbot/__pycache__
 patient/pneumonia_detection/__pycache__
+notebooks/heart_disease_data.csv
+medicai/
+notebooks/diabetes.csv
